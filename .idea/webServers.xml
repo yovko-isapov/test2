@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9b34a07f-9772-4377-8715-8f7706f9523b" name="IWA" url="http://connect.iwabg.com">
+        <fileTransfer host="connect.iwabg.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f48aaab8-9006-475f-8637-54b890cb7515" name="SPOFA02">
+        <fileTransfer rootFolder="/home/spofa02" accessType="SFTP" host="ftp.spofa02.nl" port="22" sshConfigId="151bd86f-b32f-4b4e-88f6-7263df822b72" sshConfig="spofa02@ftp.spofa02.nl:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="aeb91ab7-f4f2-430c-a3c6-e593f7092a79" name="vc2000">
+        <fileTransfer rootFolder="/home/vc2000" accessType="SFTP" host="92.63.172.162" port="22" sshConfigId="4e2317d5-cc9f-4330-8efc-689f0ba313f1" sshConfig="vc2000@92.63.172.162:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="841c9a49-64e7-4139-8028-07b92cbf09e1" name="oefenstofapp.nl">
+        <fileTransfer rootFolder="/home/oefenstofapp" accessType="SFTP" host="ftp.oefenstofapp.nl" port="22" sshConfigId="e6ac2ce5-64b2-4770-8a74-afbbafed92e7" sshConfig="oefenstofapp@ftp.oefenstofapp.nl:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="dca1f396-a953-4c19-a1c3-d0fb123ae89b" name="soccerdrillsonline.com">
+        <fileTransfer rootFolder="/home/soccerdrillsonl" accessType="SFTP" host="soccerdrillsonline.com" port="22" sshConfigId="c771099a-74d2-4b8d-a1aa-c08629fa9ac5" sshConfig="soccerdrillsonl@soccerdrillsonline.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="56e89dd7-c710-4903-b7eb-f8a87acea263" name="STARCK" url="http://154.56.48.240">
+        <fileTransfer host="154.56.48.240" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1b4f44b9-36d4-4442-93ae-20d5da88952a" name="Starck TEST" url="http://connect.iwabg.com">
+        <fileTransfer rootFolder="/public_html/sites/iwabg.com/test/referMate" host="connect.iwabg.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="00a7efc5-e836-4a32-bf3e-04e3fb58ee08" name="voetbalkennisplatform">
+        <fileTransfer rootFolder="/home/voetbalkennispla" accessType="SFTP" host="ftp.voetbalkennisplatform.nl" port="22" sshConfigId="deec0bb9-57cb-45a5-8375-2eb8aeadeed2" sshConfig="voetbalkennispla@ftp.voetbalkennisplatform.nl:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="2e337b5a-d41b-47ea-9c2b-2e5477a4d1e0" name="STARCK VPS" url="http://85.31.230.82">
+        <fileTransfer host="85.31.230.82" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="229ca3a8-bf3f-4812-af7e-42ed783a0242" name="didoDesign" url="http://85.31.230.82">
+        <fileTransfer host="85.31.230.82" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="ftp.spofa02.nl" id="151bd86f-b32f-4b4e-88f6-7263df822b72" port="22" nameFormat="DESCRIPTIVE" username="spofa02" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="92.63.172.162" id="4e2317d5-cc9f-4330-8efc-689f0ba313f1" port="22" nameFormat="DESCRIPTIVE" username="vc2000" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="ftp.oefenstofapp.nl" id="e6ac2ce5-64b2-4770-8a74-afbbafed92e7" port="22" nameFormat="DESCRIPTIVE" username="oefenstofapp" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="soccerdrillsonline.com" id="c771099a-74d2-4b8d-a1aa-c08629fa9ac5" port="22" nameFormat="DESCRIPTIVE" username="soccerdrillsonl" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="ftp.voetbalkennisplatform.nl" id="deec0bb9-57cb-45a5-8375-2eb8aeadeed2" port="22" nameFormat="DESCRIPTIVE" username="voetbalkennispla" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="85.31.230.82" id="ea9d3361-6ea9-4905-8c2c-37be32a59c79" port="22" nameFormat="DESCRIPTIVE" username="s1arckman2024" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
